@@ -1,2 +1,2 @@
 # Harjutamine
-Versioonihalduse harjutamine GitHubis.
+See repositoorium on loodud GitHubi ja versioonihalduse harjutamiseks.
